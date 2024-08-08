@@ -1,5 +1,5 @@
 <?php
-$telegramToken = '7282716690:AAEE8pt3tiE2gmtMWzDSxLR5S7S1c2TJMAM';
+$telegramToken = '7242978741:AAESuACxrwKFDZiAB5kFm0tNt5U4aIO-slM';
 $apiURL = "https://api.telegram.org/bot$telegramToken/";
 $databaseFile = 'database.txt';
 
